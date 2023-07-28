@@ -1,0 +1,13 @@
+{
+  "item.altered.zeronium_ingot": "Zeronium Ingot",
+  "block.altered.zeronium_block": "Zeronium Block",
+  "block.altered.zeronium_ore": "Zeronium Ore",
+  "item.altered.zeronium_nugget": "Zeronium Nugget",
+  "item.altered.firedragonbonenunchaku": "Fire Dragon Bone Nunchaku",
+
+  "itemGroup.altered_items": "Altered Items",
+  "itemGroup.altered_tools": "Altered Tools",
+  "itemGroup.altered_blocks": "Altered Blocks",
+  "itemGroup.altered_misc": "Altered Misc (Under Development Items)",
+  "enchantment.altered.ruthless": "Ruthless"
+}

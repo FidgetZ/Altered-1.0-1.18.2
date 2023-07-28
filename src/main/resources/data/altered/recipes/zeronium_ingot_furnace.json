@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "altered:zeronium_ore"
+  },
+  "result": "altered:zeronium_ingot",
+  "experience": 0.35,
+  "cookingtime": 200
+}

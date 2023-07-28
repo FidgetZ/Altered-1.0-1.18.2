@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "altered:zeronium_block"
+    }
+  ],
+  "result": {
+    "item": "altered:zeronium_ingot",
+    "count": 9
+  }
+}
